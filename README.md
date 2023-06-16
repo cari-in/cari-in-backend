@@ -30,6 +30,9 @@ our team also used firebase for the database.
 4. Test the APIs in Postman
 5. Run and test the apps
 
+### Additional
+App.yaml and dockerfile needed to deploy to the cloud
+
 ### Update Features
 Comming soon to be announced
 
