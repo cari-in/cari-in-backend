@@ -26,7 +26,7 @@ our team also used firebase for the database.
 ### Get Started
 1. Download or clone this project
 2. Open project in Vscode
-3. NPM run start
+3. NPM run start at the Terminal
 4. Test the APIs in Postman
 5. Run and test the apps
 
